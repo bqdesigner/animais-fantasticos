@@ -1,2 +1,3 @@
-# website-es6
-Website built with javascript es6
+# Site criado no curso de Javascript Avançado - ES6
+Utilizando o Javascript ES6, o site **Animais Fantásticos**.
+
